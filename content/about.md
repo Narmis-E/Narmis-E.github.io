@@ -22,4 +22,4 @@ ShowCodeCopyButtons: true
 
 + **Now**, I am focused on nothing at all.
 
-+ In my free time, you can find me 🍙 ricing, laughing at the latest memes on r/ProgrammerHumour (and r/Linuxmemes) and listening to daft punk 🤖.
++ In my free time, you can find me 🍙 ricing, lurking on reddit and listening to daft punk 🤖.
