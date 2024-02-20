@@ -1,6 +1,6 @@
-baseURL: "https://nmdra.github.io"
+baseURL: "https://narmis-e.github.io"
 languageCode: "en"
-title: Nimendra
+title: Narmis-E
 theme: ["hugo-redirect", "PaperMod"]
 
 minify:
@@ -11,7 +11,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Nimendra
+  title: Narmis
   description: "Welcome to my website!"
   keywords: [Blog]
   DateFormat: "January 2, 2006"
@@ -31,14 +31,14 @@ params:
 
   # Logo and name shown on top left of site
   label:
-    text: "Nimendra"
+    text: "Narmis-E"
 
   # profile-mode
   profileMode:
     # Needs to be explicitly set
     enabled: true
-    title: "Hey \U0001F44B, I'm Nimendra"
-    subtitle: "Software Engineering Undergraduate"
+    title: "Hey \U0001F44B, I'm Narmis"
+    subtitle: ""
     imageUrl: images/profile.webp
     imageWidth: 150
     imageHeight: 150
@@ -60,12 +60,8 @@ params:
     #   url:
     - name: github
       url: "https://github.com/nmdra"
-    - name: linkedin
-      url: "https://www.linkedin.com/in/nimendra/"
-    - name: x
-      url: "https://x.com/nimendra_"
     - name: email
-      url: "mailto:nimendraonline@gmail.com"
+      url: "mailto:narmisecurb@gmail.com"
 
   cover:
     linkFullImages: true
@@ -93,7 +89,7 @@ menu:
       weight: 2
     - identifier: projects
       name: Projects
-      url: https://github.com/nmdra
+      url: https://github.com/narmis-e
       weight: 5
     - identifier: links
       name: Links
