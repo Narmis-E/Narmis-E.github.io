@@ -58,13 +58,14 @@ params:
       url: "https://github.com/narmis-e"
     - name: email
       url: "mailto:narmisecurb@gmail.com"
+    - name: reddit
+      url: "https://www.reddit.com/user/NaRmisE"
 
   cover:
     linkFullImages: true
     hidden: false
     hiddenInList: false
     hiddenInSingle: true
-
 
 
 outputs:
