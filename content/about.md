@@ -11,8 +11,8 @@ ShowCodeCopyButtons: true
 
 # About Me
 
-+ 👋 I'm **Nimendra**.
-+ 🎓 Student at the [Sri Lanka Institute of Information Technology(SLIIT)](https://www.sliit.lk/) pursuing a BSc (Hons) in Information Technology.
++ 👋 I'm **Narmis**.
++ 🎓 Student and avid desktop ricer. Not much of a programer, I don't re-invent the wheel when somebody has made a script for it already 🏴‍☠️. 
 
 ---
 
@@ -20,15 +20,6 @@ ShowCodeCopyButtons: true
 
 *[what is this](https://nownownow.com/about)*
 
-+ **Now**, I am focused on learning web development, primarily [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), as well as honing my skills in [C++](https://www.cplusplus.com/) and Go languages.
++ **Now**, I am focused on nothing at all.
 
-+ In my free time, you can find me 📚 immersed in books and 📺 enjoying captivating Animes. It's a delightful way for me to relax and explore new worlds of imagination.
-
----
-
-# Contact Me
-
-- 📫 Gmail: **[nimendraonline@gmail.com](mailto://nimendraonline@gmail.com)**
-- 🐦 Twitter: **[@nimendra_](https://twitter.com/nimendra_)**
-- 👨🏻‍💼 LinkedIn: **[in/nimendra](https://www.linkedin.com/in/nimendra/)**
-
++ In my free time, you can find me 🍙 ricing, laughing at the latest memes on r/ProgrammerHumour (and r/Linuxmemes) and listening to daft punk 🤖.
