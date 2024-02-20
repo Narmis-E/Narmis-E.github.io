@@ -1,10 +1,6 @@
 # [narmis-e.github.io](https://narmis-e.github.io) 🚀
 
-[![GitHub stars](https://img.shields.io/github/stars/nmdra/nmdra.github.io?style=social)](https://github.com/narmis-e/narmis-e.github.io/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/nmdra/nmdra.github.io?style=social)](https://github.com/narmis-e/narmis-e.github.io/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/nmdra/nmdra.github.io)](https://github.com/narmis-e/narmis-e.github.io/issues)
-
-Forked from [nmdra](https://github.com/nmdra/nmdra.github.io)
+Forked from [nmdra](https://github.com/nmdra/nmdra.github.io) \
 Thanks for the tokyonight theme 🤩
 
 ---
