@@ -46,12 +46,8 @@ params:
     buttons:
       - name: About
         url: /about/#about-me
-      - name: Contact
-        url: /about/#contact-me
       # - name: Resume
       #   url: "https://github.com/nmdra/Resume/releases/latest/download/Nimendra-Resume.pdf"
-      - name: Resume
-        url: /resume
       - name: Blog
         url: /blog
   
@@ -59,7 +55,7 @@ params:
     # - name: cv
     #   url:
     - name: github
-      url: "https://github.com/nmdra"
+      url: "https://github.com/narmis-e"
     - name: email
       url: "mailto:narmisecurb@gmail.com"
 
